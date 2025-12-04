@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"  
   bio              : "UW–Madison Statistics & Data Science major passionate about solving real-world problems with optimization and machine learning."
   location         : "United States"
-  employer         : "University of Wisconsin-Madison"
+  employer         : "UW-Madison"
   uri              : https://linyan0115.github.io/
   email            : "lli643@wisc.edu" 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : "_leleliyann"
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/linyan-li-b53670238/
+  linkedin         : "Linyan Li"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -145,12 +145,15 @@ facebook:
   publisher              :
 og_image                 :  # Social media default site image
 og_description           :  # Social media default site image description
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Linyan Li"
+  links:
+    - "https://github.com/Linyan0115"
+    - "https://www.linkedin.com/in/linyan-li-b53670238/"
 
 
 # Analytics
